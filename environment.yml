@@ -1,0 +1,6 @@
+name: flask
+channels:
+ - conda-forge
+dependencies:
+ - python=3.7
+ - flask=1.1.*
